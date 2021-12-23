@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EL SUNNYS.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sunny down idle0000" x="1095" y="418" width="461" height="344" frameX="-3" frameY="0" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0001" x="1095" y="418" width="461" height="344" frameX="-3" frameY="0" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0002" x="1556" y="418" width="463" height="340" frameX="-3" frameY="-4" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0003" x="1556" y="418" width="463" height="340" frameX="-3" frameY="-4" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0004" x="2019" y="418" width="462" height="337" frameX="-2" frameY="-7" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0005" x="2019" y="418" width="462" height="337" frameX="-2" frameY="-7" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0006" x="2481" y="418" width="468" height="337" frameX="0" frameY="-7" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0007" x="2481" y="418" width="468" height="337" frameX="0" frameY="-7" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0008" x="2481" y="418" width="468" height="337" frameX="0" frameY="-7" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny down idle0009" x="2481" y="418" width="468" height="337" frameX="0" frameY="-7" frameWidth="468" frameHeight="344"/>
+	<SubTexture name="sunny idle0000" x="0" y="0" width="490" height="417" frameX="-2" frameY="-1" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0001" x="490" y="0" width="486" height="417" frameX="-6" frameY="-1" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0002" x="976" y="0" width="487" height="416" frameX="-6" frameY="-2" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0003" x="976" y="0" width="487" height="416" frameX="-6" frameY="-2" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0004" x="1463" y="0" width="491" height="416" frameX="-6" frameY="-2" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0005" x="1463" y="0" width="491" height="416" frameX="-6" frameY="-2" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0006" x="1954" y="0" width="490" height="418" frameX="-6" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0007" x="1954" y="0" width="490" height="418" frameX="-6" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0008" x="1954" y="0" width="490" height="418" frameX="-6" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0009" x="1954" y="0" width="490" height="418" frameX="-6" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0010" x="1954" y="0" width="490" height="418" frameX="-6" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0011" x="1954" y="0" width="490" height="418" frameX="-6" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0012" x="1954" y="0" width="490" height="418" frameX="-6" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0013" x="1954" y="0" width="490" height="418" frameX="-6" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny idle0014" x="2444" y="0" width="494" height="418" frameX="0" frameY="0" frameWidth="497" frameHeight="418"/>
+	<SubTexture name="sunny left0000" x="2949" y="418" width="555" height="414" frameX="-16" frameY="0" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0001" x="2949" y="418" width="555" height="414" frameX="-16" frameY="0" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0002" x="3504" y="418" width="555" height="410" frameX="-16" frameY="-4" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0003" x="3504" y="418" width="555" height="410" frameX="-16" frameY="-4" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0004" x="0" y="832" width="555" height="404" frameX="-16" frameY="-10" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0005" x="0" y="832" width="555" height="404" frameX="-16" frameY="-10" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0006" x="555" y="832" width="571" height="401" frameX="0" frameY="-13" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0007" x="555" y="832" width="571" height="401" frameX="0" frameY="-13" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0008" x="555" y="832" width="571" height="401" frameX="0" frameY="-13" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny left0009" x="555" y="832" width="571" height="401" frameX="0" frameY="-13" frameWidth="571" frameHeight="414"/>
+	<SubTexture name="sunny up0000" x="1126" y="832" width="452" height="401" frameX="-10" frameY="-1" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0001" x="1126" y="832" width="452" height="401" frameX="-10" frameY="-1" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0002" x="1578" y="832" width="453" height="402" frameX="-3" frameY="0" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0003" x="1578" y="832" width="453" height="402" frameX="-3" frameY="0" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0004" x="2031" y="832" width="452" height="401" frameX="0" frameY="-1" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0005" x="2031" y="832" width="452" height="401" frameX="0" frameY="-1" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0006" x="2031" y="832" width="452" height="401" frameX="0" frameY="-1" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0007" x="2031" y="832" width="452" height="401" frameX="0" frameY="-1" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0008" x="2031" y="832" width="452" height="401" frameX="0" frameY="-1" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunny up0009" x="2031" y="832" width="452" height="401" frameX="0" frameY="-1" frameWidth="462" frameHeight="402"/>
+	<SubTexture name="sunnydercha omgggggg0000" x="2938" y="0" width="547" height="405" frameX="0" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0001" x="2938" y="0" width="547" height="405" frameX="0" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0002" x="3485" y="0" width="548" height="405" frameX="-1" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0003" x="3485" y="0" width="548" height="405" frameX="-1" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0004" x="0" y="418" width="547" height="405" frameX="-2" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0005" x="0" y="418" width="547" height="405" frameX="-2" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0006" x="547" y="418" width="548" height="405" frameX="-3" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0007" x="547" y="418" width="548" height="405" frameX="-3" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0008" x="547" y="418" width="548" height="405" frameX="-3" frameY="0" frameWidth="551" frameHeight="405"/>
+	<SubTexture name="sunnydercha omgggggg0009" x="547" y="418" width="548" height="405" frameX="-3" frameY="0" frameWidth="551" frameHeight="405"/>
+</TextureAtlas>
